@@ -634,5 +634,3 @@ class load:
 
 main_apv()
 
-
-100RS73BCC5532A110Y
